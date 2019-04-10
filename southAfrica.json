@@ -4,117 +4,80 @@
           {  
              "name":"isiZulu",
              "speakers":"11587374",
-              "playcount": "156321498",
-              "read":{  
-                "name":"IsiXhosa"
-             }  
+              "playcount": "156321498"
           },
          
           {  
              "name":"isiXhosa",
              "speakers":"8154258",
-              "playcount": "156321498",
-              "read":{  
-                "name":"IsiXhosa"
-             }
+              "playcount": "156321498"
+              
           },
           {  
              "name":"Afrikaans",
              "speakers":"6855082",
-              "playcount": "156321498",
-               "read":{  
-                "name":"Afrikaans"
-             }
+              "playcount": "156321498"
           },
           
           {  
              "name":"English",
              "speakers":"489623",
-              "playcount": "156321498",
-              "read":{  
-                "name":"English"
-             }
+              "playcount": "156321498"
           },
            
           {  
              "name":"Sesotho sa Leboa",
              "speakers":"4618576",
-              "playcount": "156321498",
-               "read":{  
-                "name":"Sesotho sa Leboa"
-             }
+              "playcount": "156321498"
           },
           
           {  
              "name":"Setswana",
              "speakers":"4067248",
-              "playcount": "156321498",
-              "read":{  
-                "name":"Setswana"
-             }
+              "playcount": "156321498"
           },
            
           {  
              "name":"Sesotho",
              "speakers":"3849563",
-              "playcount": "156321498",
-              "read":{  
-                "name":"Sesotho"
-             }
+              "playcount": "156321498"
           },
            
           {  
              "name":"Xitsonga",
              "speakers":"2277148",
-              "playcount": "156321498",
-              "read":{  
-                "name":"Xitsonga"
-             }
+              "playcount": "1563214"
           },
            
           {  
              "name":"siSwati",
              "speakers":"1297046",
-              "playcount": "156321498",
-               "read":{  
-                "name":"siSwati"
+              "playcount": "156321498"
              }
           },
           
           {  
              "name":"Tshivenda",
              "speakers":"1209388",
-              "playcount": "156321498",
-               "read":{  
-                "name":"Tshivenda"
-             }
+              "playcount": "156321498"
           },
           
           {  
             "name":"isiNdebele",
             "speakers":"1090223",
-              "playcount": "156321498",
-               "read":{  
-                "name":"isiNdebele"
-             }
+              "playcount": "156321498"
          },
           
          {  
             "name":"Other",
             "speakers":"828258",
-              "playcount": "156321498",
-               "read":{  
-                "name":"Other"
-             }
+              "playcount": "156321498"
          },
          
          {  
             "name":"Sign Language",
             "speakers":"234655",
-              "playcount": "156321498",
-              "read":{  
-                "name":"Sign Language"
-             }
+              "playcount": "156321498"
          },
           
        ]
