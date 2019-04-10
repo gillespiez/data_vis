@@ -4,67 +4,67 @@
           {  
              "name":"isiZulu",
              "speakers":"11587374",
-             "playcount":"845123"
+             "playcount":"1"
           },
           {  
              "name":"isiXhosa",
              "speakers":"8154258",
-             "playcount":"845123"
+             "playcount":"2"
           },
           {  
              "name":"Afrikaans",
              "speakers":"6855082",
-             "playcount":"845123"
+             "playcount":"3"
           },
           {  
              "name":"English",
              "speakers":"489623",
-             "playcount":"845123"
+             "playcount":"4"
           },
           {  
              "name":"Sesotho sa Leboa",
              "speakers":"4618576",
-             "playcount":"845123"
+             "playcount":"5"
           },
           {  
              "name":"Setswana",
              "speakers":"4067248",
-             "playcount":"845123"
+             "playcount":"6"
           },
           {  
              "name":"Sesotho",
              "speakers":"3849563",
-             "playcount":"845123"
+             "playcount":"7"
           },
           {  
              "name":"Xitsonga",
              "speakers":"2277148",
-             "playcount":"845123"
+             "playcount":"8"
           },
           {  
              "name":"siSwati",
              "speakers":"1297046",
-             "playcount":"845123"
+             "playcount":"9"
           },
           {  
              "name":"Tshivenda",
              "speakers":"1209388",
-             "playcount":"845123"
+             "playcount":"10"
           },
           {  
             "name":"isiNdebele",
             "speakers":"1090223",
-            "playcount":"845123"
+            "playcount":"11"
          },
          {  
             "name":"Other",
             "speakers":"828258",
-            "playcount":"845123"
+            "playcount":"12"
          },
          {  
             "name":"Sign Language",
             "speakers":"234655",
-            "playcount":"845123"
+            "playcount":"13"
          }
        ]
  }
