@@ -3,67 +3,67 @@
        "language":[  
           {  
              "name":"isiZulu",
-             "speakers":"11,587,374",
+             "speakers":"11 587 374",
              "playcount":"13"
           },
           {  
              "name":"isiXhosa",
-             "speakers":"8,154,258",
+             "speakers":"8 154 258",
              "playcount":"12"
           },
           {  
              "name":"Afrikaans",
-             "speakers":"6,855,082",
+             "speakers":"6 855 082",
              "playcount":"11"
           },
           {  
              "name":"English",
-             "speakers":"4,892,623",
+             "speakers":"4 892 623",
              "playcount":"10"
           },
           {  
              "name":"Sesotho sa Leboa",
-             "speakers":"4,618,576",
+             "speakers":"4 618 576",
              "playcount":"9"
           },
           {  
              "name":"Setswana",
-             "speakers":"4,067,248",
+             "speakers":"4 067 248",
              "playcount":"8"
           },
           {  
              "name":"Sesotho",
-             "speakers":"3,849,563",
+             "speakers":"3 849 563",
              "playcount":"7"
           },
           {  
              "name":"Xitsonga",
-             "speakers":"2,277,148",
+             "speakers":"2 277 148",
              "playcount":"6"
           },
           {  
              "name":"siSwati",
-             "speakers":"1,297,046",
+             "speakers":"1 297 046",
              "playcount":"5"
           },
           {  
              "name":"Tshivenda",
-             "speakers":"1,209,388",
+             "speakers":"1 209 388",
              "playcount":"4"
           },
           {  
             "name":"isiNdebele",
-            "speakers":"1,090,223",
+            "speakers":"1 090 223",
             "playcount":"3"
          },
          {  
             "name":"Other",
-            "speakers":"828,258",
+            "speakers":"828 258",
             "playcount":"2"
          },
          {  
             "name":"Sign Language",
-            "speakers":"234,655",
+            "speakers":"234 655",
             "playcount":"1"
          }
        ]
