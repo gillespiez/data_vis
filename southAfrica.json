@@ -3,55 +3,68 @@
        "language":[  
           {  
              "name":"isiZulu",
-             "Speakers":"11587374"
+             "speakers":"11587374",
+              "playcount": "156321498"
           },
           {  
              "name":"isiXhosa",
-             "Speakers":"8154258"
+             "speakers":"8154258",
+              "playcount": "156321498"
           },
           {  
              "name":"Afrikaans",
-             "Speakers":"6855082"
+             "speakers":"6855082",
+              "playcount": "156321498"
           },
           {  
              "name":"English",
-             "Speakers":"489623"
+             "speakers":"489623",
+              "playcount": "156321498"
           },
           {  
              "name":"Sesotho sa Leboa",
-             "Speakers":"4618576"
+             "speakers":"4618576",
+              "playcount": "156321498"
           },
           {  
              "name":"Setswana",
-             "Speakers":"4067248"
+             "speakers":"4067248",
+              "playcount": "156321498"
           },
           {  
              "name":"Sesotho",
-             "Speakers":"3849563"
+             "speakers":"3849563",
+              "playcount": "156321498"
           },
           {  
              "name":"Xitsonga",
-             "Speakers":"2277148"
+             "speakers":"2277148",
+              "playcount": "156321498"
           },
           {  
              "name":"siSwati",
-             "Speakers":"1297046"
+             "speakers":"1297046",
+              "playcount": "156321498"
           },
           {  
              "name":"Tshivenda",
-             "Speakers":"1209388"
+             "speakers":"1209388",
+              "playcount": "156321498"
           },
           {  
             "name":"isiNdebele",
-            "Speakers":"1090223"
+            "speakers":"1090223",
+              "playcount": "156321498"
          },
          {  
             "name":"Other",
-            "Speakers":"828258"
+            "speakers":"828258",
+              "playcount": "156321498"
          },
          {  
             "name":"Sign Language",
-            "Speakers":"234655"
+            "speakers":"234655",
+              "playcount": "156321498"
          }
        ]
  }
